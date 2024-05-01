@@ -1,0 +1,8 @@
+id,product_name,cost_per_ton,production_time_in_days,,
+1,stainless steel,40,8,,
+2,nickel,20,6,,
+3,iron,30,5,,
+4,aluminum,10,4,,
+5,zinc,7,3,,
+6,scrap,5,2,,
+7,misc,3,1,,
